@@ -1,0 +1,14 @@
+.image {
+    width: 300px;
+}
+
+.my-slider {
+    display: inline-block;
+    vertical-align: middle;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
